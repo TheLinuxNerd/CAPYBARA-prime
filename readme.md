@@ -1,4 +1,4 @@
-Made in minnesota. for fun ;-)
+Made in Minnesota. for fun ;-)
 
 Might not work very well on windows or mac-os
 
